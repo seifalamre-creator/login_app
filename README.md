@@ -28,8 +28,6 @@ A login app built with Flutter - UI only.
 
 
 ## 📂 Project Structure
-
-```
 ```
 lib/
 ├─ core/
